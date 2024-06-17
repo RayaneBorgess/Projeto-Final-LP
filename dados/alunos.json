@@ -1,0 +1,52 @@
+{
+    "b1d5d0cc-07d3-4c3a-91b4-9f68f7a3e1aa": {
+        "id": "b1d5d0cc-07d3-4c3a-91b4-9f68f7a3e1aa",
+        "nome": "Carlos Silva",
+        "notas": {
+            "Linguagem de Programação": 7.2,
+            "Engenharia de Software": 8.5,
+            "Algoritmos": 6.4,
+            "Estrutura de Dados": 9.1
+        }
+    },
+    "d3c29a0e-6d4a-4c21-9f8e-2b691a98e3f3": {
+        "id": "d3c29a0e-6d4a-4c21-9f8e-2b691a98e3f3",
+        "nome": "Maria Fernanda",
+        "notas": {
+            "Linguagem de Programação": 8.0,
+            "Engenharia de Software": 9.0,
+            "Algoritmos": 7.3,
+            "Estrutura de Dados": 8.8
+        }
+    },
+    "a6b5c3d4-4c7f-48a2-9d6e-1c6e7d3f2e4b": {
+        "id": "a6b5c3d4-4c7f-48a2-9d6e-1c6e7d3f2e4b",
+        "nome": "João Pereira",
+        "notas": {
+            "Linguagem de Programação": 6.5,
+            "Engenharia de Software": 7.9,
+            "Algoritmos": 5.5,
+            "Estrutura de Dados": 8.0
+        }
+    },
+    "e4f8b7a2-4d3c-4a1b-8c6e-2b7f9e1d6a5c": {
+        "id": "e4f8b7a2-4d3c-4a1b-8c6e-2b7f9e1d6a5c",
+        "nome": "Ana Paula",
+        "notas": {
+            "Linguagem de Programação": 9.1,
+            "Engenharia de Software": 8.8,
+            "Algoritmos": 9.0,
+            "Estrutura de Dados": 9.5
+        }
+    },
+    "f7b6d5c4-4e3b-4c2a-8c6e-1b5d6e3f2a4d": {
+        "id": "f7b6d5c4-4e3b-4c2a-8c6e-1b5d6e3f2a4d",
+        "nome": "Lucas Oliveira",
+        "notas": {
+            "Linguagem de Programação": 7.0,
+            "Engenharia de Software": 7.5,
+            "Algoritmos": 6.0,
+            "Estrutura de Dados": 8.2
+        }
+    }
+}
